@@ -1,0 +1,41 @@
+@charset "UTF-8";
+body {
+    background-color: #5ec0f4;
+	position: relative;
+	min-height: 100vh;
+}
+
+h1{
+	font-size:55px;
+	text-align:center;
+	font-family: 'Poppins'
+}
+.container {
+    background-color: #ffffff;
+    margin:20px auto;
+    padding: 30px 50px;
+    border-radius: 10px;
+    box-shadow: 0 20px 40px rgba(38, 33, 61, 0.2);
+
+}
+
+form{
+	  width: 400px;
+      margin-left: auto;
+      margin-right: auto;
+}
+footer{
+		background:#347ab7;
+		color:white;
+		text-align:center;
+		width:100%;
+		position: absolute;
+		bottom: 0;
+		margin-bottom:0;
+
+}
+#navBox{
+	display:flex;
+	justify-content: center;
+
+}
